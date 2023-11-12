@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/login">
+
+    <fragment
+        android:id="@+id/login"
+        android:name="com.example.proyectofinalprogra.LoginScreen"
+        android:label="Login">
+        <!-- Define aquí el contenido y la lógica de tu fragmento de inicio de sesión -->
+    </fragment>
+
+    <activity
+        android:id="@+id/VentanaPrincipal"
+        android:name="com.example.proyectofinalprogra.ventanas.VentanaPrincipal"
+        android:label="VentanaPrincipal" />
+
+    <action
+        android:id="@+id/action_login_to_ventanaPrincipal"
+        app:destination="@id/VentanaPrincipal" />
+
+</navigation>

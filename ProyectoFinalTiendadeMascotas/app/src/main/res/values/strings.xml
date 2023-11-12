@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectoFinalProgra</string>
+    <string name="title_activity_ventana_animales">VentanaAnimales</string>
+    <string name="title_activity_ventana_alimentos">VentanaAlimentos</string>
+    <string name="title_activity_ventana_accesorios">VentanaAccesorios</string>
+    <string name="title_activity_ventana_carrito">VentanaCarrito</string>
+    <string name="title_activity_accesorios">Accesorios</string>
+    <string name="title_activity_alimentos">Alimentos</string>
+    <string name="title_activity_animales">Animales</string>
+    <string name="title_activity_carrito">Carrito</string>
+</resources>

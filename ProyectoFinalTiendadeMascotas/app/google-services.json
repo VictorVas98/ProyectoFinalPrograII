@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138793762203",
+    "project_id": "tiendademascotas-4c5ee",
+    "storage_bucket": "tiendademascotas-4c5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138793762203:android:0c836f5b1afac65adb753e",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinalprogra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYN8w3P9Icvw0hX6HsYwMVUKFM58hDoe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
